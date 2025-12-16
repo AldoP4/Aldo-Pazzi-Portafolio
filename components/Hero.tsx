@@ -190,7 +190,6 @@ export const Hero: React.FC = () => {
                             <img 
                                 src="https://i.imgur.com/ufq7XnL.jpeg" 
                                 alt="Aldo Pazzi Portrait"
-                                // Changed: Removed grayscale, added saturation/brightness boost on hover
                                 className="w-full h-full object-cover object-center grayscale-0 contrast-100 brightness-100 group-hover:saturate-125 group-hover:contrast-110 group-hover:scale-105 transition-all duration-700 ease-out"
                             />
                         </div>
